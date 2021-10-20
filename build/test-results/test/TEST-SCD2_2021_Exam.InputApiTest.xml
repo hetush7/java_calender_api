@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SCD2_2021_Exam.InputApiTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-06-18T22:33:23" hostname="Hetushs-MBP.Dlink" time="0.01">
+  <properties/>
+  <testcase name="isHolidayTest" classname="SCD2_2021_Exam.InputApiTest" time="0.001"/>
+  <testcase name="countrySetTestTwo" classname="SCD2_2021_Exam.InputApiTest" time="0.001"/>
+  <testcase name="isHolidayTestTwo" classname="SCD2_2021_Exam.InputApiTest" time="0.001"/>
+  <testcase name="countrySetTest" classname="SCD2_2021_Exam.InputApiTest" time="0.001"/>
+  <testcase name="getHolidayNameTest" classname="SCD2_2021_Exam.InputApiTest" time="0.002"/>
+  <testcase name="getHolidaysNumber" classname="SCD2_2021_Exam.InputApiTest" time="0.002"/>
+  <testcase name="getHolidaysNumberTwo" classname="SCD2_2021_Exam.InputApiTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SCD2_2021_Exam.OutputAPITest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-06-18T22:33:22" hostname="Hetushs-MBP.Dlink" time="0.494">
+  <properties/>
+  <testcase name="uploadImageTestTwo" classname="SCD2_2021_Exam.OutputAPITest" time="0.016"/>
+  <testcase name="uploadImageTest" classname="SCD2_2021_Exam.OutputAPITest" time="0.478"/>
+  <system-out><![CDATA[Could not generate QR code :(
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
